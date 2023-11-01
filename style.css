@@ -36,6 +36,7 @@ h4{
     text-transform: uppercase;
     font-size: 14px;
     margin-bottom: 20px;
+    font-weight: 400;
 }
 h1{
     font-size: 25px;
@@ -68,7 +69,9 @@ p{
     color: hsl(134deg 25.49% 38.9%)
 }
 h3{
+    font-family: 'Montserrat', sans-serif;;
     text-decoration:line-through;
+    font-weight: 400;
 }
 button img{
     margin-right: 10px;
